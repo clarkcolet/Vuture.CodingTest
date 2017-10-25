@@ -1,0 +1,9 @@
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.pdb
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.dll
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.xml
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.pdb

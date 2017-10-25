@@ -1,0 +1,5 @@
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest\bin\Debug\Vuture.CodingTest.exe.config
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest\bin\Debug\Vuture.CodingTest.exe
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest\bin\Debug\Vuture.CodingTest.pdb
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest\obj\Debug\Vuture.CodingTest.exe
+C:\Users\Claudio\Desktop\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest\obj\Debug\Vuture.CodingTest.pdb
